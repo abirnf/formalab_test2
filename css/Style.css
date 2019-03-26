@@ -1,6 +1,6 @@
-/**{
-    color : red;
- }*/
+*{
+    text-align: center;
+ }
 .parableu
 {
     color:blue;
@@ -31,6 +31,7 @@ a
 {
     color: red;text-decoration: none;
     font-size: 40px;
+   
 }
 a:hover
 {
