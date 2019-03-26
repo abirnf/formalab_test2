@@ -24,11 +24,13 @@ color: green;
 .bord
 {
     border: 1px solid green;
+    font-weight: 100;
 }
 
 a
 {
     color: red;text-decoration: none;
+    font-size: 40px;
 }
 a:hover
 {
