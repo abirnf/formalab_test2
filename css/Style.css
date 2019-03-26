@@ -20,11 +20,13 @@ p.vert
 .vt
 {
 color: green;
+background-color: rgba(160, 255, 142, 0.555);
 }
 .bord
 {
     border: 1px solid green;
     font-weight: 100;
+    opacity: 0.5;
 }
 
 a
