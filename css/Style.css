@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background: url(../image/rgba.png)no-repeat;
+    background: url(../image/rgba.png) no-repeat ;
     padding-left: 10px;
     height: 200px;
     width: 100%;
@@ -48,3 +48,9 @@ a:visited
 {
     color: gray;
 }
+
+ul
+{
+    list-style-image: url(../image/list.jpg);
+}
+
