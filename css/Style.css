@@ -1,5 +1,9 @@
-*{
+body{
     text-align: center;
+    background: url(../image/rgba.png)no-repeat;
+    padding-left: 10px;
+    height: 200px;
+    width: 100%;
  }
 .parableu
 {
@@ -27,6 +31,7 @@ background-color: rgba(160, 255, 142, 0.555);
     border: 1px solid green;
     font-weight: 100;
     opacity: 0.5;
+    border-radius: 15px;
 }
 
 a
